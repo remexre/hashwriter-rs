@@ -1,7 +1,7 @@
 # hashwriter
 
-[![Build Status](https://travis-ci.org/remexre/swipl-rs.svg?branch=master)](https://travis-ci.org/remexre/swipl-rs)
-[![Dependency Status](https://deps.rs/repo/github/remexre/swipl-rs/status.svg)](https://deps.rs/repo/github/remexre/swipl-rs)
+[![Build Status](https://travis-ci.org/remexre/hashwriter-rs.svg?branch=master)](https://travis-ci.org/remexre/hashwriter-rs)
+[![Dependency Status](https://deps.rs/repo/github/remexre/hashwriter-rs/status.svg)](https://deps.rs/repo/github/remexre/hashwriter-rs)
 
 A `Write` that keeps track of the hash of the content being written.
 
