@@ -1,0 +1,11 @@
+[package]
+authors = ["Nathan Ringo <remexre@gmail.com>"]
+description = "A `Write` that keeps track of the hash of the content being written."
+homepage = "https://github.com/remexre/hashwriter-rs"
+license = "Apache-2.0/MIT"
+name = "hashwriter"
+repository = "https://github.com/remexre/hashwriter-rs"
+version = "0.1.0"
+
+[dependencies]
+digest = "0.7.2"
